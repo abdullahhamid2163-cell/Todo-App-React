@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "title": "SDKCNkasnkx",
+      "id": "rK1hy7S6ZIE"
+    }
+  ],
+  "auth": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
