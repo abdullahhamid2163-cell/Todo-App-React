@@ -55,7 +55,7 @@ const Registration = () => {
         return;
       }
 
-      navigate("/login");
+      navigate("/dashboard");
     } catch (error) {
       setError("Something went wrong. Please try again.");
     }

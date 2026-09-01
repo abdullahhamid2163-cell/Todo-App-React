@@ -16,7 +16,6 @@ const Dashboard = () => {
     const response = await fetch(`http://localhost:3000/todos`);
     const allTodos = await response.json();
 
-    // Client-side strict string filter to prevent json-server type casting bugs
     const userTodos = allTodos.filter(
       (todo) => String(todo.userId) === String(user.id),
     );
