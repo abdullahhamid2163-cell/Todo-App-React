@@ -1,38 +1,30 @@
 {
   "todos": [
     {
-      "title": "ssss",
-      "id": "5NyoZc8dXN0"
-    },
-    {
-      "title": "d",
-      "id": "ZatfDuUY92w"
-    },
-    {
-      "title": "d",
-      "id": "hCcRf_clehM"
-    },
-    {
-      "title": "fffdsa",
-      "id": "Wc240BA3bac"
-    },
-    {
-      "title": "fds",
-      "id": "jYjxqHoWJvs"
-    },
-    {
-      "title": "hhh",
-      "id": "1agrRCZ02_U"
-    },
-    {
-      "title": "d",
-      "id": "Ml7Okhti6o4"
-    },
-    {
-      "title": "dddd",
-      "id": "aTBb_xFw2M8"
+      "title": "f",
+      "userId": "_bGUcfKy0Ac",
+      "id": "4mao5QnYxFE"
     }
   ],
-  "auth": [],
+  "auth": [
+    {
+      "name": "asd",
+      "email": "abdullahhamid2163@gmail.com",
+      "password": "1234567890",
+      "id": "_bGUcfKy0Ac"
+    },
+    {
+      "name": "as",
+      "email": "ali21@gmail.com",
+      "password": "asdffdsa1234",
+      "id": "qqYJR7de0Ss"
+    },
+    {
+      "name": "098",
+      "email": "asd09@gmail.com",
+      "password": "0987654321",
+      "id": "kUTjOVXliys"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
